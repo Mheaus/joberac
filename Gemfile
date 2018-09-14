@@ -62,6 +62,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Added at 2018-09-14 19:31:17 +0200 by mheos:
+gem 'react-rails'
 gem 'devise'
 gem 'simple_form'
 gem "annotate", "~> 2.7"
+gem 'react-rails-hot-loader'
